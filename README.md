@@ -14,6 +14,7 @@ PT 1:
   - [x] User is displayed the username, name, and body for each tweet
   - [x] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
 - [x] User can refresh tweets timeline by pulling down to refresh
+
 PT 2:
 - [x] User can **compose and post a new tweet**
   - [x] User can click a “Compose” icon in the Action Bar on the top right
@@ -33,6 +34,7 @@ PT 1:
 - [ ] User can watch embedded video within the tweet
 - [ ] User can open the twitter app offline and see last loaded tweets
 - [ ] On the Twitter timeline, leverage the CoordinatorLayout to apply scrolling behavior that hides / shows the toolbar.
+
 PT 2:
 - [ ] User is using **"Twitter branded" colors and styles**
 - [x] User can click links in tweets launch the web browser
